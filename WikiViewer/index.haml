@@ -1,0 +1,16 @@
+%body
+  .container
+    #title
+      %img{:src => "https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg"}/
+      %h1
+        Wikipedia
+        %br/
+        Viewer
+
+    #searchbar
+      %input.form-control{:placeholder => "Search Wiki", :type => "text"}/
+    #button
+      %button.btn.btn-success{:type => "submit"}
+        Random
+        %i.fa.fa-random
+    #resultant
