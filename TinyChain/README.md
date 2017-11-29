@@ -1,5 +1,5 @@
 # TinyChain
-Tiny BlockChain model in Python
+Tiny BlockChain implementation in Python
 
 ### Each Block contains - 
 * Index
