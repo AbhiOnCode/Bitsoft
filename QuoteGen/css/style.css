@@ -1,0 +1,45 @@
+body {
+  font-family: "Papyrus", Fantasy;
+  text-align: center;
+  background-size: 100% 100%;
+  border: none;
+}
+
+#bod {
+  height: 80%;
+  width: 80%;
+  margin: 40px;
+  border-radius: 10px;
+  z-index: 9999;
+  background-color: #33444e;
+  background-image: url("https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.zastavki.com%2Fpictures%2F2560x1600%2F2011%2FNature_Clouds_Above_the_Clouds_029818_.jpg&f=1");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.6);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.6);
+  top: 50%;
+  left: 50%;
+  border: none;
+}
+
+#heading {
+  margin: 50px;
+}
+
+#quotebody {
+  display: none;
+}
+
+.quotediv {
+  margin: 20px
+}
+
+.btn-default {
+  color: green;
+  border: 1px solid lightgreen;
+  margin: 20px;
+  padding: 10px 25px 10px 25px;
+}
