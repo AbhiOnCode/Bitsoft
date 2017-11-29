@@ -1,5 +1,11 @@
 # TinyChain
-Tiny BlockChain implementation in Python
+Bit sized BlockChain implementation in Python
+
+### Components for blockchain implementation- 
+* Block structure
+* Genesis Block
+* New Block
+* Chain creation
 
 ### Each Block contains - 
 * Index
@@ -7,9 +13,3 @@ Tiny BlockChain implementation in Python
 * Data
 * Previous_hash
 * hash
-
-### The whole project is divided into - 
-* Block structure
-* Genesis Block
-* New Block
-* Chain creation
