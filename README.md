@@ -6,3 +6,4 @@ Bit sized softwares for fun and learning.
 * WikiViewer - Wikipedia search engine
 * QuoteGen - random quote generator
 * EvenOdd neuralnet - Even Odd classifier implemented in deep learning
+* Tinycomplier - bit size (Lisp->C) compiler written in JS
